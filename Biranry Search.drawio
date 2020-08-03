@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T02:23:50.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.5.8" etag="85isfrtf2HFqJR4M8l8z" type="github"><diagram id="Fmi6uuqMO4DApI99P83E">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-03T04:54:13.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="OZLpwDg69YKPSV-Xi9CZ" version="13.5.8" type="github">
+  <diagram id="Fmi6uuqMO4DApI99P83E" name="Page-1">
+    <mxGraphModel dx="1796" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-1" value="50" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-4" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="200" as="sourcePoint" />
+            <mxPoint x="410" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-5" value="45" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-6" value="52" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-8" value="" style="endArrow=none;html=1;exitX=0.74;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s2UN5EfxCgheK3PV4xWz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="150" as="sourcePoint" />
+            <mxPoint x="477" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="290" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-10" value="" style="endArrow=none;html=1;exitX=0.74;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="291" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-11" value="48" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="375" y="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-12" value="42" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s2UN5EfxCgheK3PV4xWz-13" value="BSt will have 2 child&lt;br&gt;nodes left will be less than parent node&lt;br&gt;and right side will be grater than or equal to parent node.&lt;br&gt;BSt will always have two child nodes." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="70" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
